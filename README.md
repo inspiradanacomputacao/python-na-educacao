@@ -26,3 +26,7 @@ Ano: 2015.2 ~ atual <br >
 Disciplinas/Período: <br >
 Ano:  <br >
 
+#### UFF
+- Curso: Ciência da Computação <br >
+Disciplinas/Período: Programação de Computadores I/1º, Laboratório de Programação de Jogos/1º, Laboratório de Programação Web/2º  <br >
+Ano: 2014.1 ~ atual (currículo novo) <br >
