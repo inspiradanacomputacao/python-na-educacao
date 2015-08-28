@@ -23,6 +23,6 @@ Ano: 2015.2 ~ atual <br >
 
 #### UERJ
 - Curso:  Ciência da Computação <br >
-Disciplinas/Período: <br >
-Ano:  <br >
+Disciplinas/Período: <br >Fundamentos da Computação/1º
+Ano:  xxxx ~ atual<br >
 
