@@ -22,7 +22,7 @@ Disciplinas/Período: <br >
 Ano: 2015.2 ~ atual <br >
 
 #### UERJ
-- Curso:  Engenharias (exceto computação) <br >
+- Curso:  Ciência da Computação <br >
 Disciplinas/Período: <br >
 Ano:  <br >
 
