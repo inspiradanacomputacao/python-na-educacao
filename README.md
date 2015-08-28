@@ -1,2 +1,2 @@
-# python-na-educacao
-Universidades e escolas brasileiras que ensinam programação com Python 
+# Python na Educação
+Lista de Universidades e Escolas que ensinam programação com Python 
