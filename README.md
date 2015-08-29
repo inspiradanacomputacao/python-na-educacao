@@ -8,8 +8,12 @@ Ano: 2008 ~ atual (desde a fundação do curso) <br >
 
 #### FATEC - SJC
 - Curso: Análise e desenvolvimento de sistemas <br >
-Disciplinas/Período:  <br >
-Ano: xx ~ atual <br >
+Disciplinas/Período:  Algoritmos/1°<br >
+Ano: 2011 ~ atual <br >
+
+- Curso: Tecnologia em banco de dados <br >
+Disciplinas/Período:  Algoritmos/1°<br >
+Ano: 2010 ~ atual <br >
 
 #### UFPE
 - Curso: Sistema da Informação <br >
