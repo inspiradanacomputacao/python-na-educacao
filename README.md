@@ -26,3 +26,7 @@ Ano: 2015.2 ~ atual <br >
 Disciplinas/Período: <br >
 Ano:  <br >
 
+#### UNINASSAU
+- Curso: Sistema da Informação <br >
+- Disciplinas/Período:  <br >
+- Ano: xx ~ atual <br >
