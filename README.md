@@ -25,10 +25,15 @@ Ano: 2014 ~ atual <br >
 Disciplinas/Período: <br >
 Ano: 2015.2 ~ atual <br >
 
+#### UFCG
+- Curso: Ciência da Computação <br >
+Disciplinas/Período: Programação I/1º <br >
+Ano: xx ~ atual <br >
+
 #### UERJ
 - Curso:  Ciência da Computação <br >
 Disciplinas/Período: <br >
-Ano:  <br >
+Ano:  xx ~ atual <br >
 
 #### UNINASSAU
 - Curso: Sistema da Informação <br >
