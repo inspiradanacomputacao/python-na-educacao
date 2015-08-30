@@ -35,4 +35,8 @@ Ano: xx ~ atual <br >
 Disciplinas/Período: <br >
 Ano:  xx ~ atual <br >
 
+#### IFRN - Campus Parnamirim
+- Cursos: Tecnologia em Sistemas para Internet e Técnico em Informática. <br >
+Disciplinas/Período: Algoritmos e Técnicas de Programação (1o periodo), Fundamentos de Lógica e Algoritmos (1o ano). <br >
+Ano: 2014 - atual <br >
 
