@@ -36,3 +36,8 @@ Disciplinas/Período: <br >
 Ano:  xx ~ atual <br >
 
 
+#### UNIFRA
+- Cursos: Sistemas de Informação <br >
+Disciplinas/Período: Programação Python / 7º (Optativa) <br >
+Ano: 2013 ~ atual <br >
+
