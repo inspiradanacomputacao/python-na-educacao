@@ -8,12 +8,17 @@ Ano: 2008 ~ atual (desde a fundação do curso) <br >
 
 #### FATEC - SJC
 - Curso: Análise e desenvolvimento de sistemas <br >
-Disciplinas/Período:  Algoritmos/1°<br >
-Ano: 2011 ~ atual <br >
+Disciplinas/Período:  Introdução a Algoritmos/1º, Estrutura de Dados e Programação Orientada a Objetos <br >
+Ano: 2008 ~ atual <br >
 
 - Curso: Tecnologia em banco de dados <br >
 Disciplinas/Período:  Algoritmos/1°<br >
 Ano: 2010 ~ atual <br >
+
+#### FATEC - São Cateano do Sul <br >
+Curso: Jogos Digitais <br >
+Disciplinas/Período: Programação I/1º  <br >
+Ano: 2010 - atual <br >
 
 #### UFPE
 - Curso: Sistema da Informação <br >
@@ -35,4 +40,22 @@ Ano: xx ~ atual <br >
 Disciplinas/Período: <br >
 Ano:  xx ~ atual <br >
 
+#### UFBA
+- Curso: Sistema da Informação, Ciência da Computação e Licenciatura em Computação <br >
+Disciplinas/Período: Introdução a programação/1º, ...,  <br >
+Ano:  <br >
 
+#### UTFPR Londrina
+- Curso: Pós graduação de desenvolvimento web
+Disciplinas/Período: Linguagem de Programaçao para Servidor Web 
+Ano: 2015 ~ atual
+
+#### Faculdade Dom Bosco Porto Alegre
+Curso: Sistemas da Informação
+Disciplina: Paradigmas de Linguagem de Programação
+Ano: 2012 ~ 
+
+#### Faculdade Redentor - Campus Itaperuna/RJ
+- Curso: Sistemas da Informação
+Disciplina: Projeto de Software para Internet 2 (precisamente usando Django e flask)
+Ano: 2014 ~ 
