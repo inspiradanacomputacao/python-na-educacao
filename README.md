@@ -46,16 +46,16 @@ Disciplinas/Período: Introdução a programação/1º, ...,  <br >
 Ano:  <br >
 
 #### UTFPR Londrina
-- Curso: Pós graduação de desenvolvimento web
-Disciplinas/Período: Linguagem de Programaçao para Servidor Web 
-Ano: 2015 ~ atual
+- Curso: Pós graduação de Desenvolvimento Web <br >
+Disciplinas/Período: Linguagem de Programaçao para Servidor Web  <br >
+Ano: 2015 ~ atual <br >
 
-#### Faculdade Dom Bosco Porto Alegre
-Curso: Sistemas da Informação
-Disciplina: Paradigmas de Linguagem de Programação
+#### Faculdade Dom Bosco Porto Alegre <br >
+Curso: Sistemas da Informação <br >
+Disciplina: Paradigmas de Linguagem de Programação <br >
 Ano: 2012 ~ 
 
-#### Faculdade Redentor - Campus Itaperuna/RJ
-- Curso: Sistemas da Informação
-Disciplina: Projeto de Software para Internet 2 (precisamente usando Django e flask)
+#### Faculdade Redentor - Campus Itaperuna/RJ <br >
+- Curso: Sistemas da Informação <br >
+Disciplina: Projeto de Software para Internet 2 (precisamente usando Django e flask) <br >
 Ano: 2014 ~ 
