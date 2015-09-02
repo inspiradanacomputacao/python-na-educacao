@@ -59,3 +59,8 @@ Ano: 2012 ~
 - Curso: Sistemas da Informação <br >
 Disciplina: Projeto de Software para Internet 2 (precisamente usando Django e flask) <br >
 Ano: 2014 ~ 
+
+#### UFRN <br >
+- Curso: Engenharia de Computação e Automação <br >
+Disciplina: Processamento Digital de Sinais <br >
+Ano: 2014 ~
