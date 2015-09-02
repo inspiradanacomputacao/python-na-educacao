@@ -1,5 +1,5 @@
 # Python na Educação
-Lista de Universidades e Escolas que ensinam programação com Python 
+Lista de Universidades e Escolas que de algum modo tem o Python inserido em disciplinas.
 
 #### UFRPE
 - Curso: Sistema da Informação <br >
