@@ -26,3 +26,7 @@ Ano: 2015.2 ~ atual <br >
 Disciplinas/Período: <br >
 Ano:  <br >
 
+### UEA
+- Curso: Engenharia Naval<br>
+- Disciplinas/ Período: LP1, LP2 / 2º<br>
+- Ano: <br>
