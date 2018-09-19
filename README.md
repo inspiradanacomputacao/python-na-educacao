@@ -64,3 +64,8 @@ Ano: 2014 ~
 - Curso: Engenharia de Computação e Automação <br >
 Disciplina: Processamento Digital de Sinais <br >
 Ano: 2014 ~
+
+#### IFBAHIANO - Campus Senhor do Bonfim/BA <br >
+- Curso: Licenciatura em ciências da Computação <br >
+Disciplina: ALGORITMOS E INTRODUÇÃO À PROGRAMAÇÃO <br >
+Ano: xx ~ Atual <br>
