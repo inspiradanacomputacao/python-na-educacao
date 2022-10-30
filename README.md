@@ -64,3 +64,8 @@ Ano: 2014 ~
 - Curso: Engenharia de Computação e Automação <br >
 Disciplina: Processamento Digital de Sinais <br >
 Ano: 2014 ~
+
+#### IFRN Parnamirim <br >
+- Curso: Sistemas para Internet <br >
+Disciplina: Estrutura de Dados <br >
+Ano: 2022 ~
