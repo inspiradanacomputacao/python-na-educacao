@@ -69,3 +69,8 @@ Ano: 2014 ~
 - Curso: Sistemas para Internet <br >
 Disciplina: Estrutura de Dados <br >
 Ano: 2022 ~
+
+#### UPE <br >
+- Curso: Pós-graduação em Ciência de Dados e Analytics <br >
+Disciplina: Programação para Ciência de Dados <br >
+Ano: 2019 ~
