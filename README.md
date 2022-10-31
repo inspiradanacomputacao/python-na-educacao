@@ -69,3 +69,8 @@ Ano: 2014 ~
 - Curso: Sistemas para Internet <br >
 Disciplina: Estrutura de Dados <br >
 Ano: 2022 ~
+
+#### Escola de Dados <br >
+- Curso: Python para Inovação Cívica <br >
+Disciplina: Análise de dados (módulo 2-4), Raspagem de dados (5-6) <br >
+Ano: 2021 ~
