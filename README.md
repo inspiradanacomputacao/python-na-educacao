@@ -6,6 +6,10 @@ Lista de Universidades e Escolas que de algum modo tem o Python inserido em disc
 Disciplinas/Período: Introdução a programação/1º, ...  <br >
 Ano: 2008 ~ atual (desde a fundação do curso) <br >
 
+- Curso: Licenciatura em Computação <br >
+Disciplinas/Período: Programação I, Laboratório de Programação I, Inteligência Artificial ...  <br >
+Ano: 2018 ~ atual <br >
+
 #### FATEC - SJC
 - Curso: Análise e desenvolvimento de sistemas <br >
 Disciplinas/Período:  Introdução a Algoritmos/1º, Estrutura de Dados e Programação Orientada a Objetos <br >
