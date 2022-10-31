@@ -74,3 +74,8 @@ Ano: 2022 ~
 - Curso: Pós-graduação em Ciência de Dados e Analytics <br >
 Disciplina: Programação para Ciência de Dados <br >
 Ano: 2019 ~
+
+#### Escola de Dados <br >
+- Curso: Python para Inovação Cívica <br >
+Disciplina: Análise de dados (módulo 2-4), Raspagem de dados (5-6) <br >
+Ano: 2021 ~
