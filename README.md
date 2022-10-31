@@ -83,3 +83,9 @@ Ano: 2019 ~
 - Curso: Python para Inovação Cívica <br >
 Disciplina: Análise de dados (módulo 2-4), Raspagem de dados (5-6) <br >
 Ano: 2021 ~
+
+
+#### CESAR School 
+- Curso: Bacharelado em Ciência da Computação
+Disciplina: Fundamentos de Programação
+Ano: 2019
