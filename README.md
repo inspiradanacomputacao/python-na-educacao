@@ -1,6 +1,11 @@
 # Python na Educação
 Lista de Universidades e Escolas que de algum modo tem o Python inserido em disciplinas e projetos.
 
+#### IFRN - Campus Parnamirim
+- Cursos: Tecnologia em Sistemas para Internet e Técnico em Informática. <br >
+Disciplinas/Período: Algoritmos e Técnicas de Programação (1o periodo), Fundamentos de Lógica e Algoritmos (1o ano). <br >
+Ano: 2014 ~ atual <br >
+
 #### UFRPE
 - Curso: Sistema da Informação <br >
 Disciplinas/Período: Introdução a programação/1º, ...  <br >
